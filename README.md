@@ -1,7 +1,7 @@
-#VAIS Major Project
+# VAIS Major Project
 
 ---
-#Teaching
+# Teaching
 ## Situation
 My Aunt is the principal of a school in Bosnia and Hercegovina. The school is for Chinese children who's parents want them to learn a more western education, rather than Chinese. Every summer, they do a summer camp for the kids who stay in Bosnia and this summer includes a few different classes. The classes I'm teaching are Intro to Programming and Intro to Ethical Hacking. Each class of mine only has 6 students. I was planning on just passing teaching as my MP, but I figured I wouldn't want to pass a class with only 6 students. 
 
