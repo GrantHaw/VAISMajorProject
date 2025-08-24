@@ -31,3 +31,23 @@ This really surprised me tbh. They really learned the best when they talked it o
 
 #### 3. Bribes/Rewards
 When i saw that they weren't talkative, I bought a full bag of candy to give to people who answer questions. This worked really well to get them to answer.
+
+---
+# Azure
+## How tf did we go from teaching to azure
+
+Originally, I had brought my server to host all services that the students would be attacking (web server + DVWA). However, their infra is CRAZY complicated for no reason. Therefore, I thought it would be easiest to pull up azure and learn how to make servers in the cloud.
+
+## What I did
+
+Spooled up a DVWA server, a Kali jumpbox to use for SSH and three different web services. Those web services are on my github under GrantHaw/VAISPhishingCampaign, GrantHaw/VAISBruteForce and GrantHaw/pubsite. Pubsite is still currently up under ghaw.net. Troubleshooting the workflow via github actions by itself was def a 10 hour investment by itself.
+
+## What I learned
+
+Azure webservices work really well once they start working
+When creating a VM, like 20 different things are created as well (RG, IP, NIC, HD, ETC...) and need to be individually managed separate of the VM (which i lowkey love)
+Web Dev with Next.js
+
+
+
+
